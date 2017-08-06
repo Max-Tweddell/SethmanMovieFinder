@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/Max-Tweddell/SethmanMovieFinder/issues"
   },
-  "homepage": "https://github.com/Max-Tweddell/SethmanMovieFinder#readme"
+  "homepage": "https://github.com/Max-Tweddell/SethmanMovieFinder#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "uglifyjs-webpack-plugin": "^0.4.6",
+    "webpack": "^3.4.1"
+  },
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
 }
