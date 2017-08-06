@@ -1,3 +1,4 @@
+task default: %w[js sinatra ]
 
 task :js do
   sh "yarn webpack"
